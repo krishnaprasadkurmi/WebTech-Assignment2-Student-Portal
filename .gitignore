@@ -1,0 +1,8 @@
+# Java build output
+**/target/
+# Uploaded user files should not be committed
+question2-php-admin/uploads/*
+!question2-php-admin/uploads/.gitkeep
+# Local environment files
+.env
+.DS_Store
